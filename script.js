@@ -1,11 +1,6 @@
-(function () {
-	function avios() {
-		alert('hello')
-	}
-	// connect.ChatInterface.init({
-	// 	containerId: 'root' // This is the id of the container where you want the widget to reside
-	// });
-})();
+function sayHello() {
+	alert('Hello there');
+}
 // const container = document.getElementsByClassName("chat-area");
 //
 //
